@@ -3,20 +3,20 @@ body {
 }
 
 div {
-    margin-top: 35px;
+    margin-top: 30px;
     text-align: center;
     color: white;
     font-family: Cubano;
 }
 
 p {
-    font-size: 15em;
+    font-size: 13em;
 }
 
 button {
-    width: 50%;
-    height: 500px;
-    font-size: 18em;
+    width: 40%;
+    height: 300px;
+    font-size: 13em;
     font-family: Cubano;
     color: white;
     text-align: center;
